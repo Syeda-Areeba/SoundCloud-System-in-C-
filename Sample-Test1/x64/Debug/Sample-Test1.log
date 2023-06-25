@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  test.cpp
+D:\BS(AI)\sem 3\Data structures\Data structures lab\Assignment-1-demo\Project1\Project1\Header.h(75,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BS(AI)\sem 3\Data structures\Data structures lab\Assignment-1-demo\Project1\Project1\Header.h(463,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Sample-Test1.vcxproj -> D:\BS(AI)\sem 3\Data structures\Data structures lab\Assignment-1-demo\Project1\x64\Debug\Sample-Test1.exe
